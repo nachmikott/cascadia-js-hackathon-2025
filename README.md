@@ -1,4 +1,3 @@
-### Clueless Crafter
 🏗️ "Clueless Crafter", helps reduce friction for real estate developers and individuals moving from idea to permit by providing natural language tools in a user-friendly experience.
 
 🏡 Inspired by the memoir "Cabin" by Patrick Hutchison, and my own attempts to understand the daunting process of building on vacant land — I wanted to make parcel discovery, zoning regulations and permitting less intimidating.
