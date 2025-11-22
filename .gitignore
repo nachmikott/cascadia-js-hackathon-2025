@@ -5,6 +5,9 @@ node_modules
 .next
 out
 
+# Build artifacts
+dist/
+
 # Env
 .env*
 
