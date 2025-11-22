@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+
+# Env
+.env*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+
+# Compiled artifacts in app
+app/components/dist/
+app/api/chat/dist/
+
+public/parcel-info.json
